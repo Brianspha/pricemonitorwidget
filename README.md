@@ -1,0 +1,2 @@
+# pricemonitorwidget
+ POC Widget
