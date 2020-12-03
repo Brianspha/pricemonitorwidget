@@ -14,5 +14,6 @@ This is a POC price monitoring widget
 2. yarn serve
 
 ### Deployed 
-1.  
+1.  [Github Pages](https://brianspha.github.io/pricemonitorwidget/)
+2.  [Skynet Pages](https://siasky.net/AAA2qaITRY4zEe7C1BcfAx9ojQL_ctwXemnJciJ-rBmKDQ)
 
