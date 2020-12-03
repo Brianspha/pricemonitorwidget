@@ -24,6 +24,7 @@
         "vue-cryptoicon": "^0.1.6",
         "vue-custom-element": "^3.2.2",
         "vue-router": "^3.0.1",
+        "vue-trend-chart": "^0.15.3",
         "vuetify": "^2.3.19",
         "vuex": "^3.0.1",
         "webpack": "^4.16.1"

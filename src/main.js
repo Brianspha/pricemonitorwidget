@@ -13,6 +13,7 @@ import './assets/css/main.scss'
 import vuetify from './plugins/vuetify' // path to vuetify export
 import Cryptoicon from 'vue-cryptoicon';
 import VueApexCharts from "vue-apexcharts";
+import TrendChart from "vue-trend-chart";
 
 // widget setup
 // (optional) 'Custom elements polyfill'
@@ -21,6 +22,7 @@ import 'document-register-element/build/document-register-element'
 import vueCustomElement from 'vue-custom-element'
 Vue.use(vueCustomElement)
 
+Vue.use(TrendChart);
 Vue.use(AtUI)
 Vue.config.productionTip = false
 Vue.use(vuetify)
